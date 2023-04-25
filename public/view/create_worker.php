@@ -20,7 +20,7 @@
       <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" name="password">
     </div>
     <div class="form-group">
-      <label for="exampleInputPassword1" class="form-label mt-4">Repeat password:</label>
+      <label for="exampleInputPassword1" class="form-label mt-4">Repeat password</label>
       <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Repeat password" name="passwordConfirm">
     </div>
     <div class="form-group">
