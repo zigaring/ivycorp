@@ -34,4 +34,3 @@
     <input type="hidden" name="registerHiddenInput" value="Worker">
     <button type="submit" name="register" class="btn btn-primary">Submit</button>
 </form>
-<h1>TEST</h1>
